@@ -1,5 +1,5 @@
 {
-  "name": "Instagram Reel Download API",
+  "name": "Instagram-Reel-Download-API",
   "version": "1.0.0",
   "description": " API for downloading instagram reels",
   "main": "index.js",
